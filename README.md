@@ -15,7 +15,6 @@ CS @ Thammasat University. I build games and AI tools, then show what actually w
 
 **University projects**
 - [perimeter](https://github.com/PhurinKaewpuangsek/perimeter): indoor map and navigation for our faculty building, with room search and class schedules, serverless on AWS
-- [asset-tracker](https://github.com/duckxy166/asset-tracker): equipment tracking for the CS department, with LINE login and notifications
 - [validmate](https://github.com/PhurinKaewpuangsek/validmate): lab management and automatic grading for CS332/CS232, built on AWS
 - [CS373_CourseTimetablingLab](https://github.com/Micosz/CS373_CourseTimetablingLab): compares four course timetabling algorithms in the browser
 
