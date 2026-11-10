@@ -5,7 +5,7 @@ CS @ Thammasat University. I build games and AI tools, then show what actually w
 
 **Projects**
 - [stardew-ai-agent](https://github.com/duckxy166/stardew-ai-agent): an MCP server that runs inside Stardew Valley, so Claude, GPT and Gemini can farm the same save in split-screen
-- [duckxy-among-ai](https://github.com/duckxy166/duckxy-among-ai): Claude, GPT, Gemini, DeepSeek and Kimi play an Among Us-style game with separate memories and secret thoughts
+- [among-us-ai](https://github.com/duckxy166/among-us-ai): Claude, GPT, Gemini, DeepSeek, Kimi and Grok play an Among Us-style game with separate memories and secret thoughts
 
 **Agent skills**
 - [duckxy-Freeze](https://github.com/duckxy166/duckxy-Freeze): one hotkey that freezes everything in a game (logic, physics, shaders, audio)
