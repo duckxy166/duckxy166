@@ -13,4 +13,6 @@ CS @ Thammasat University. I build games and AI tools, then show what actually w
 - **[Unity-CLI-install](https://github.com/duckxy166/Unity-CLI-install)** — install and verify Unity's official CLI; safe to re-run
 - **[duckxy-Summarize](https://github.com/duckxy166/duckxy-Summarize)** — evidence-based task summaries for any `SKILL.md` agent
 
+**Contact** — [mr.saharat.u@gmail.com](mailto:mr.saharat.u@gmail.com)
+
 <sub>Godot · Unity · Roblox · Java / Spring Boot · TypeScript · Python · AWS · Claude Code + MCP</sub>
