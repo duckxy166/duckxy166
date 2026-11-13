@@ -18,4 +18,3 @@ CS @ Thammasat University. I build games and AI tools, then show what actually w
 - [validmate](https://github.com/PhurinKaewpuangsek/validmate): lab management and automatic grading for CS332/CS232, built on AWS
 - [CS373_CourseTimetablingLab](https://github.com/Micosz/CS373_CourseTimetablingLab): compares four course timetabling algorithms in the browser
 
-Contact: [mr.saharat.u@gmail.com](mailto:mr.saharat.u@gmail.com)
