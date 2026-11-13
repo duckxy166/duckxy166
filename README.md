@@ -1,6 +1,6 @@
 ### Saharat Udomwatthawi
 
-CS @ Thammasat University. I build games and AI tools, then show what actually worked on
+CS @ Thammasat University.
 [YouTube](https://www.youtube.com/@LDuckxy) (1.5M+ views, 10K+ subscribers).
 
 **Projects**
