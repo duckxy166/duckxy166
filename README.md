@@ -60,4 +60,13 @@ CS @ Thammasat University.
       <a href="https://academy.claude.com/verify/55d0bdb4453ccdc15f3048504287c64c">Verify on Claude Academy ↗</a>
     </td>
   </tr>
+  <tr>
+    <td width="230"><a href="https://app-na2.hubspot.com/academy/achievements/9h1s4qq3/en/1/saharat-udomwatthawi/inbound-sales-certified"><img src="assets/certs/hubspot-inbound-sales.png" width="220" alt="HubSpot Academy Inbound Sales Certified badge"></a></td>
+    <td>
+      <b>Inbound Sales Certified</b><br>
+      <i>HubSpot Academy</i><br>
+      Inbound sales methodology: understanding the buyer's context, prioritizing active buyers, earning attention and delivering personalized sales presentations.<br>
+      <a href="https://app-na2.hubspot.com/academy/achievements/9h1s4qq3/en/1/saharat-udomwatthawi/inbound-sales-certified">Verify on HubSpot Academy ↗</a>
+    </td>
+  </tr>
 </table>
