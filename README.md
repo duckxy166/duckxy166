@@ -12,7 +12,25 @@ CS @ Thammasat University.
 - [validmate](https://github.com/PhurinKaewpuangsek/validmate): lab management and automatic grading for CS332/CS232, built on AWS
 - [CS373_CourseTimetablingLab](https://github.com/Micosz/CS373_CourseTimetablingLab): compares four course timetabling algorithms in the browser
 
+**Certifications & Training**
 
-**Certifications**
-- [AWS Academy Graduate: Cloud Architecting](https://www.credly.com/badges/4e51d107-0cae-4818-b6e2-40a0bc50d2d0/public_url)
-- [AWS Academy Graduate: Cloud Foundations](https://www.credly.com/badges/d69df772-acb4-4c0b-8f17-b6a32e9516f9/public_url)
+<table>
+  <tr>
+    <td width="230"><a href="https://www.credly.com/badges/4e51d107-0cae-4818-b6e2-40a0bc50d2d0/public_url"><img src="assets/certs/aws-cloud-architecting.png" width="220" alt="AWS Academy Cloud Architecting badge"></a></td>
+    <td>
+      <b>AWS Academy Graduate - Cloud Architecting</b><br>
+      <i>Amazon Web Services Training and Certification</i><br>
+      Designing AWS architectures for availability, scale and security: VPC networking, load balancing and Auto Scaling, databases, caching, decoupling and serverless, guided by the Well-Architected Framework. 60 hours, Nov 2026.<br>
+      <a href="https://www.credly.com/badges/4e51d107-0cae-4818-b6e2-40a0bc50d2d0/public_url">Verify on Credly ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="230"><a href="https://www.credly.com/badges/d69df772-acb4-4c0b-8f17-b6a32e9516f9/public_url"><img src="assets/certs/aws-cloud-foundations.png" width="220" alt="AWS Academy Cloud Foundations badge"></a></td>
+    <td>
+      <b>AWS Academy Graduate - Cloud Foundations</b><br>
+      <i>Amazon Web Services Training and Certification</i><br>
+      AWS Cloud concepts, core services, security, architecture, pricing and support.<br>
+      <a href="https://www.credly.com/badges/d69df772-acb4-4c0b-8f17-b6a32e9516f9/public_url">Verify on Credly ↗</a>
+    </td>
+  </tr>
+</table>
