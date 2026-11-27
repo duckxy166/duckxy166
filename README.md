@@ -12,3 +12,7 @@ CS @ Thammasat University.
 - [validmate](https://github.com/PhurinKaewpuangsek/validmate): lab management and automatic grading for CS332/CS232, built on AWS
 - [CS373_CourseTimetablingLab](https://github.com/Micosz/CS373_CourseTimetablingLab): compares four course timetabling algorithms in the browser
 
+
+**Certifications**
+- [AWS Academy Graduate: Cloud Architecting](https://www.credly.com/badges/4e51d107-0cae-4818-b6e2-40a0bc50d2d0/public_url)
+- [AWS Academy Graduate: Cloud Foundations](https://www.credly.com/badges/d69df772-acb4-4c0b-8f17-b6a32e9516f9/public_url)
