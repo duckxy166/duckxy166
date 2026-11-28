@@ -28,17 +28,8 @@ CS @ Thammasat University.
     <td>
       <b>Claude Code in Action</b><br>
       <i>Anthropic, Claude Academy</i><br>
-      Running long, hands-off Claude Code sessions that can be trusted: steering, configuration, automation and verification. Nov 2026.<br>
-      <a href="https://academy.claude.com/verify/df9b9994f26fd111f3c721240efca655">Verify on Claude Academy ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="230"><a href="https://academy.claude.com/verify/57a71d18bb0fddac1b4a096101c073ed"><img src="assets/certs/claude-code-101.png" width="220" alt="Claude Academy Claude Code 101 badge"></a></td>
-    <td>
-      <b>Claude Code 101</b><br>
-      <i>Anthropic, Claude Academy</i><br>
-      Using Claude Code on a real codebase: CLAUDE.md project context, subagents, MCP servers and hooks. Nov 2026.<br>
-      <a href="https://academy.claude.com/verify/57a71d18bb0fddac1b4a096101c073ed">Verify on Claude Academy ↗</a>
+      Running long, hands-off Claude Code sessions that can be trusted: steering, configuration, automation and verification. Also completed Claude Code 101 (CLAUDE.md, subagents, MCP servers and hooks). Nov 2026.<br>
+      <a href="https://academy.claude.com/verify/df9b9994f26fd111f3c721240efca655">Verify on Claude Academy ↗</a> &nbsp;·&nbsp; <a href="https://academy.claude.com/verify/57a71d18bb0fddac1b4a096101c073ed">Claude Code 101 ↗</a>
     </td>
   </tr>
   <tr>
