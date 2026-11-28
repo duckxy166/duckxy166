@@ -10,7 +10,6 @@ CS @ Thammasat University.
 **University projects**
 - [perimeter](https://github.com/PhurinKaewpuangsek/perimeter): indoor map and navigation for our faculty building, with room search and class schedules, serverless on AWS
 - [validmate](https://github.com/PhurinKaewpuangsek/validmate): lab management and automatic grading for CS332/CS232, built on AWS
-- [CS373_CourseTimetablingLab](https://github.com/Micosz/CS373_CourseTimetablingLab): compares four course timetabling algorithms in the browser
 
 **Certifications & Training**
 
