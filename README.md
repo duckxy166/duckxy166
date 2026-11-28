@@ -29,7 +29,7 @@ CS @ Thammasat University.
       <b>Claude Code in Action</b><br>
       <i>Anthropic, Claude Academy</i><br>
       Running long, hands-off Claude Code sessions that can be trusted: steering, configuration, automation and verification. Also completed Claude Code 101 (CLAUDE.md, subagents, MCP servers and hooks). Nov 2026.<br>
-      <a href="https://academy.claude.com/verify/df9b9994f26fd111f3c721240efca655">Verify on Claude Academy ↗</a> &nbsp;·&nbsp; <a href="https://academy.claude.com/verify/57a71d18bb0fddac1b4a096101c073ed">Claude Code 101 ↗</a>
+      <a href="https://academy.claude.com/verify/df9b9994f26fd111f3c721240efca655">Verify on Claude Academy ↗</a><br><a href="https://academy.claude.com/verify/57a71d18bb0fddac1b4a096101c073ed">Claude Code 101 ↗</a>
     </td>
   </tr>
   <tr>
