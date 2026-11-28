@@ -41,4 +41,13 @@ CS @ Thammasat University.
       <a href="https://academy.claude.com/verify/57a71d18bb0fddac1b4a096101c073ed">Verify on Claude Academy ↗</a>
     </td>
   </tr>
+  <tr>
+    <td width="230"><a href="https://drive.google.com/file/d/1Q3kEDhfoQFsUTx6_Bb8FL83fNAkIRGKv/view"><img src="assets/certs/google-gemini-academy.png" width="220" alt="Google Student Ambassador Gemini Academy certificate"></a></td>
+    <td>
+      <b>Gemini Academy</b><br>
+      <i>Google for Education, Google Student Ambassador Program</i><br>
+      Completed the Gemini Academy training program as a Google Student Ambassador.<br>
+      <a href="https://drive.google.com/file/d/1Q3kEDhfoQFsUTx6_Bb8FL83fNAkIRGKv/view">View Certificate ↗</a>
+    </td>
+  </tr>
 </table>
